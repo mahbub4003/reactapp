@@ -1,0 +1,23 @@
+body{
+    background-color: darkslategray;
+}
+.colorred{
+    background-color: red;
+    color: #fff;
+    
+}
+.font{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.center{
+text-align: center;
+}
+.fontwhite{
+    color: floralwhite;
+}
+.font30{
+    font-size: 30px;
+}
+.c-pink{
+    color: pink;
+}
